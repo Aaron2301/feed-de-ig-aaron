@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(214, 214, 214);
+    margin: 0%;
+}
+div{
+    box-sizing: border-box;
+}
+header{
+    background-color: white;
+    padding: 10px;
+}
+header h1{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.post{
+    background-color:white;
+    margin-top: 60px;
+}
+.photo-1 img{
+    height: 350px;
+}
+.photo-3 img{
+    height: 350px;
+}
+
+.post .post-header div:first-child{
+    display: inline-block;
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.post .post-header div:last-child{
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+    padding-right: 15px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.post h2, p{
+    padding: 10px;
+    margin: 0;
+}
+.post img{
+    width: 100%;
+}
+.container{
+    width: 600px;
+    margin: auto;
+}
+.food{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
