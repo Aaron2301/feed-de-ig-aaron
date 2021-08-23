@@ -15,14 +15,11 @@ header h1{
     
 }
 hr{
-    margin: 0%;
-    padding: 0%;
-    background-color: rgb(204, 204, 204);
+    margin-top: 0%;
 }
 .all{
     padding-bottom: 70px;
 }
-
 .post{
     background-color:white;
     margin-top: 60px;
